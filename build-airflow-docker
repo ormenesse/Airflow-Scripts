@@ -1,0 +1,1 @@
+docker build . --tag gyramais-airflow:2.7.2 --progress=plain --no-cache
